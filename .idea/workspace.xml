@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93b1fcbf-b90e-4a74-9db7-61a22564cabf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/pages/cnpibk/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/pages/cnpibk/create.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/pages/cnpibk/edit.blade.php" afterPath="$PROJECT_DIR$/resources/views/pages/cnpibk/edit.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -209,12 +208,12 @@
       <workItem from="1502292080944" duration="1155000" />
       <workItem from="1502334730003" duration="3000" />
       <workItem from="1502447408982" duration="8523000" />
-      <workItem from="1502465578104" duration="2325000" />
+      <workItem from="1502465578104" duration="2448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22289000" />
+    <option name="totallyTimeSpent" value="22412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
